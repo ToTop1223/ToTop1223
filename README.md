@@ -4,8 +4,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
 
-* 🌍 I'm From Singapore
-* ✉️ You Can Contact Me at SuperStar.dev1919@gmail.com
+* 🌍 I'm From Finland
+* ✉️ You Can Contact Me at leonidkaralis@gmail.com
 * ⚡ I'm a developer
 * 🌱 I'm Really Interested in Web Development,System development and Blockchain
 * ✌🏻 I Also Enjoy Troubleshooting and Assembling Computers
