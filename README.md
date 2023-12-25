@@ -1,11 +1,11 @@
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> My Name is Leonid Karalis
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> My Name is Jimi Kotka
 ==============================
 
 My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
 
 * 🌍 I'm From Finland
-* ✉️ You Can Contact Me at leonidkaralis@gmail.com
+* ✉️ You Can Contact Me at jimikotka@gmail.com
 * ⚡ I'm a developer
 * 🌱 I'm Really Interested in Web Development,System development and Blockchain
 * ✌🏻 I Also Enjoy Troubleshooting and Assembling Computers
